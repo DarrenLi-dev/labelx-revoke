@@ -1,4 +1,11 @@
 {
-  "activated": [],
-  "updated": "2026-06-08 17:33:08"
+  "activated": [
+    {
+      "code": "00ADD-DD84A-C4F5D",
+      "machine": "788dbc90e7e9",
+      "hostname": "PC-20250928ZOWM",
+      "date": "2026-06-08 18:10:20"
+    }
+  ],
+  "updated": "2026-06-08 18:10:20"
 }
